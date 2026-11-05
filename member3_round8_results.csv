@@ -1,0 +1,5 @@
+Track,learning_rate,max_iter,max_leaf_nodes,min_samples_leaf,l2_regularization,early_stopping,MdAPE,MAPE
+off_market,0.1,600,80,20,0.0,True,12.249297980178834,16.818922459982005
+off_market,0.1,600,80,20,0.0,False,12.138766616256653,16.590336680888722
+list_aware,0.1,500,45,20,0.0,True,4.398193496083504,5.58716661830348
+list_aware,0.1,500,45,20,0.0,False,4.432125232013439,5.608852892119232
