@@ -1,0 +1,6 @@
+{
+  "list_aware_all_10069_equal_list_price": true,
+  "off_market_reconstructed_predictions_matched": 27,
+  "off_market_sample": "24 random rows (seed 42) plus 3 largest APE cases",
+  "full_off_market_rerun": false
+}

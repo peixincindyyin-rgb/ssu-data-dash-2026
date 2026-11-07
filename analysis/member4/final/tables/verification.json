@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "team_repo_commit": "f3c5aee2630d2c36d63c2c1f5748c572739d63f9",
+  "final_metrics_recomputed": true,
+  "row_counts_per_track": 10069,
+  "eligible_interval_rows_per_track": 8045,
+  "sampled_interval_date_and_formula_checks_per_track": 30,
+  "official_submission_check": {
+    "off_market": "OK",
+    "list_aware": "OK"
+  },
+  "official_test_rows": {
+    "off_market": 3974,
+    "list_aware": 4064
+  }
+}

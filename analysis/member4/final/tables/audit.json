@@ -1,0 +1,29 @@
+{
+  "prediction_sha256": "949ebc7607fce09c7c350e7185b5a24733145814747687150440f5a39084be40",
+  "metadata_sha256": "1f8202c7655fa08927b569ee1287fa5a1ca6e86a777a7b569d9f21cbe6f49fa1",
+  "rows": 20138,
+  "unique_homes": 10069,
+  "months": [
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05"
+  ],
+  "positive_finite_prices": true,
+  "unique_track_id": true,
+  "metadata_match": true,
+  "dates_match": true,
+  "alpha": 0.1,
+  "min_calibration": 100,
+  "bootstrap_repeats": 1000,
+  "bootstrap_seed": 42,
+  "interval_rule": "calibration sale < min(target listing date, target sale-month start)",
+  "calibration_strictly_historical": true,
+  "model_training_code_audited": false,
+  "note": "Training provenance cannot be established from a predictions CSV. No hidden-test data used.",
+  "team_repo": "https://github.com/peixincindyyin-rgb/ssu-data-dash-2026",
+  "team_repo_commit": "f3c5aee2630d2c36d63c2c1f5748c572739d63f9",
+  "analysis_model": "Member 2 features + Member 3 Round 8 tuned model"
+}

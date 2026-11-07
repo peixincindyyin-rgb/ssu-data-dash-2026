@@ -1,0 +1,18 @@
+{
+  "analysis_date": "2026-11-07",
+  "dataset_url": "https://huggingface.co/datasets/Baliyang/SSU_data_dash",
+  "dataset_file": "listings.parquet",
+  "dataset_bytes": 32881444,
+  "dataset_sha256": "18cf87fa122b544018fccbc15040403b0fed37080c44a75d1b55deca96d2c4bf",
+  "metadata_rows": 10069,
+  "source_code_url": "https://github.com/erwinzhang7/SSU-Data-Dash",
+  "source_code_hashes": {
+    "run.py": "bf87fd2967ff6422de14cb950bcc8bf4221178225e0111c336bcaed08a70b70f",
+    "models.py": "d8f853acf5e24c08af7e8834261989237ce50dc8f2ee0d4c18f41e697a37bd7f",
+    "data.py": "ccb691af73e97e97f34e5a2dabcf935dd89d96206d8e73d0b82294a2b3445fa2",
+    "features.py": "ad586572affa1f4146f15c5ec68643fa015421ee3d38dde043a416a208d9bbde"
+  },
+  "launch_video": "Metadata accessible; content fetch failed; not watched or transcribed.",
+  "input_zip": "User supplied baseline_results.zip",
+  "no_hidden_test_outcomes_used": true
+}

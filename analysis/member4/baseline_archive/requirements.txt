@@ -1,0 +1,7 @@
+# Python 3.12; versions used to generate the analysis
+numpy==2.3.5
+pandas==3.0.1
+matplotlib==3.10.9
+pyarrow==22.0.0
+# Optional: needed only to regenerate the supporting PDF
+reportlab>=4.0,<5

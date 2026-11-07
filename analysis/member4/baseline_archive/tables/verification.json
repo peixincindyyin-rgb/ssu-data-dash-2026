@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": [
+    "Original point metrics reproduced to two decimals",
+    "Every subgroup table sums to its track total",
+    "All interval dates strictly historical",
+    "60 independently recomputed order statistics and interval bounds",
+    "Changing May outcomes does not change any interval boundaries",
+    "Small-calibration finite-sample boundary and December warmup"
+  ]
+}
